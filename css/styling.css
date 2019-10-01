@@ -1,0 +1,16 @@
+#background {
+    position: fixed;
+    left: 0px;
+    top: -260px;
+    width: 120em;
+    height: auto;
+  }
+  .content {
+    position: fixed;
+    bottom: 30%;
+    width: 100%;
+    padding-left: 20em;
+  }
+  .spotify {
+    opacity: 0.5;
+  }
