@@ -43,7 +43,7 @@ a:focus {
 }
 
 .tm-text-primary {
-  color: #3496d8;
+  color: black;
 }
 
 .tm-font-big {
@@ -52,7 +52,7 @@ a:focus {
 
 .tm-btn-primary {
   color: white;
-  background-color: #3496d8;
+  background-color: black;
   padding: 5px 15px;
   border-radius: 40px;
 }
@@ -60,7 +60,7 @@ a:focus {
 .tm-btn-primary:hover,
 .tm-btn-primary:focus {
   color: white;
-  background-color: #73c1f6;
+  background-color: grey;
 }
 
 /* Navbar */
@@ -108,7 +108,7 @@ a:focus {
 .tm-navbar.scroll .tm-nav-link:hover,
 .tm-navbar.scroll .tm-nav-link.current,
 .tm-nav-link:hover {
-  color: #3496d8;
+  color: #grey;
 }
 
 .navbar-toggler {
@@ -255,7 +255,7 @@ a:focus {
 .tm-icon {
   display: block;
   margin-bottom: 55px;
-  color: #3496d8;
+  color: black;
 }
 
 /* Work */
